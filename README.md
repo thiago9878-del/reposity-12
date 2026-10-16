@@ -1,32 +1,50 @@
-# Reposity 12
+# 📁 Reposity 12
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/thiago9878-del/reposity-12)
+Bienvenido a **Reposity 12**, un proyecto desarrollado y almacenado en GitHub.
 
-> Breve descripción de qué hace este proyecto, para qué sirve y qué problema resuelve.
+## 📌 Descripción
 
----
-
-## 🚀 Características principales
-
-- **Característica 1:** Descripción breve de lo que hace.
-- **Característica 2:** Descripción breve de otra funcionalidad destacada.
-- **Característica 3:** Eficiente, rápido y fácil de usar.
-
----
+Este repositorio contiene los archivos y recursos correspondientes al proyecto. Su objetivo es organizar el trabajo y facilitar el acceso al código y a los materiales utilizados durante su desarrollo.
 
 ## 🛠️ Tecnologías utilizadas
 
-Este proyecto fue construido utilizando las siguientes herramientas y tecnologías:
-- Lenguaje / Framework principal (ej. *JavaScript, Python, React, Node.js*, etc.)
-- Herramientas adicionales de soporte.
+Las tecnologías utilizadas dependen de los archivos y herramientas implementados en el proyecto.
 
----
+## 🚀 Instalación
 
-## ⚙️ Requisitos previos e instalación
+Para obtener una copia del proyecto en tu computadora, seguí estos pasos:
 
-Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local:
+1. Cloná el repositorio:
 
-1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/thiago9878-del/reposity-12.git](https://github.com/thiago9878-del/reposity-12.git)
+   git clone https://github.com/thiago9878-del/reposity-12.git
+   ```
+
+2. Ingresá a la carpeta:
+
+   ```bash
+   cd reposity-12
+   ```
+
+3. Abrí la carpeta en tu editor de código favorito.
+
+4. Seguí las instrucciones correspondientes a las tecnologías utilizadas en el proyecto.
+
+## 💻 Uso
+
+Explorá los archivos del repositorio para conocer su estructura y funcionamiento. Los pasos necesarios para ejecutar el proyecto dependerán del lenguaje y las herramientas utilizadas.
+
+## 📂 Estructura del proyecto
+
+La organización de las carpetas y los archivos puede variar según el contenido del repositorio.
+
+## 👨‍💻 Autor
+
+**Thiago9878-del**
+
+Repositorio: [reposity-12](https://github.com/thiago9878-del/reposity-12)
+
+## 📄 Licencia
+
+La licencia del proyecto dependerá de la que se haya definido en el repositorio.
+
